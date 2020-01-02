@@ -2,7 +2,6 @@
     margin-top: -100px;
 }
 .box-contain{
-    /* width: 200px; */
     margin: 10px 3% ;
 }
 
@@ -18,5 +17,13 @@
 .box-contain p {
     padding-top: 10px;
     font-size: 14px;
+}
 
+/* Login */
+
+.box-contain form{
+    width: 90%;
+}
+.box-contain .form-btn {
+	width: 100%;
 }
