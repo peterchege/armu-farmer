@@ -24,6 +24,13 @@
 .box-contain form{
     width: 90%;
 }
+.box-contain label {
+	margin: 5px auto;
+}
+.box-contain input {
+	margin: 5px auto;
+}
 .box-contain .form-btn {
-	width: 100%;
+    width: 100%;
+    margin-top: 30px;
 }
