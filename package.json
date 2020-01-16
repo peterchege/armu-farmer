@@ -1,0 +1,23 @@
+{
+  "name": "farmer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterchege/armu-farmer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterchege/armu-farmer/issues"
+  },
+  "homepage": "https://github.com/peterchege/armu-farmer#readme",
+  "dependencies": {
+    "mysql": "^2.17.1"
+  }
+}
